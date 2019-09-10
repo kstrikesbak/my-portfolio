@@ -1,10 +1,21 @@
 # KEJAL PORTFOLIO
 
-EDUCATION & QUALIFICATIONS
+___*`EDUCATION & QUALIFICATIONS`*___
 
-EMPLOYMENT
+* 2017: The TEFL Academy
+Teaching English as a Foreign Language 120 hours (distinction)
 
-INTERESTS
+* 2014: The University of Buckingham
+Secondary PGCE in Mathematics with QTS
 
-REFEREES
+* 2013: University Of Sheffield
+BSc (Hons) Mathematics 2:1
+
+___*`EMPLOYMENT`*___
+
+ 
+
+`INTERESTS`
+
+`REFEREES`
 
