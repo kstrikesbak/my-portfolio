@@ -72,3 +72,7 @@
 
 `REFEREES`
 
+`OTHER`
+
+[Check out my GitHub page!](https://github.com/kstrikesbak/)
+
