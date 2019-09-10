@@ -91,6 +91,6 @@
 
 [Check out my GitHub page!](https://github.com/kstrikesbak/)
 
-![alt text](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif "Logo Title Text 1")
+![fat man coding with feet](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif "fat man coding with feet")
 
 
