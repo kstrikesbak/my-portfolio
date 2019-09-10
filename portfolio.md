@@ -2,6 +2,8 @@
 
 ## ___*`EDUCATION & QUALIFICATIONS`*___ 
 
+
+
     * 2017: The TEFL Academy
     Teaching English as a Foreign Language 120 hours (distinction)
 
@@ -68,11 +70,27 @@
 
 *My work as Student Ambassador involved helping fresher’s move into their accommodation and making sure they had the best start possible. Having been a fresher myself I know how difficult it is and this helped me know how to comfort and make them feel at home in Sheffield. My job also involved picking up international students from the train station and taking them to their halls of residence. I think just the presence alone made all the difference and answering their questions made them feel at ease.*
 
-`INTERESTS`
+## ___*`INTERESTS`*___
 
-`REFEREES`
+    
+| Likes | Details      
+| - | -
+| Dog or Cat | Dog
+| Football  | Arsenal 
+| Food      | Pizza     
+| TV Program | Peep Show
+| Window or Aisle | Aisle
 
-`OTHER`
+
+
+## ___*`REFEREES`*___
+
+*Available on request*
+
+## ___*`OTHER`*___
 
 [Check out my GitHub page!](https://github.com/kstrikesbak/)
+
+![alt text](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif "Logo Title Text 1")
+
 
