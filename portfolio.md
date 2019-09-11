@@ -2,6 +2,8 @@
 
 ## ___*`PROFILE`*___
 
+> He who does not travel, does not know the value of men. (Moorish proverb)
+
 **I am highly motivated and enjoy working at a fast pace, within a pressurised environment as this often yields the best rewards in terms of personal satisfaction. I also value the opportunity to learn new skills, with a strong appetite for knowledge.**
 
 **You will see from my application that at my disposal, I possess an armoury of skills and professional competences which I strongly believe are fundamentally critical to any job.** 
@@ -107,3 +109,4 @@ BSc (Hons) Mathematics 2:1
 ![fat man coding with feet](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif "fat man coding with feet")
 
 
+ 
