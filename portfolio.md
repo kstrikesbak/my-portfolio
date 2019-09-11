@@ -95,14 +95,14 @@ BSc (Hons) Mathematics 2:1
 
 
 | Name | Relationship | Organisation | Email  
-| -| - | - | - |
+| - | - | - | - |
 | Colin Jaffe | Coding Professor | Code Immersives | Colin.Jaffe@codeimmersives.com
 | Mesuara Kaleziq  | Coding Assistant | Code Immersives | Mesuara.Kaleziq@codeimmersives.com
 
 
 ## ___*`OTHER`*___
 
-[Check out my GitHub page!](https://github.com/kstrikesbak/)
+[Check out my GitHub page!](https://github.com/kstrikesbak/) or feel free to email me at kejal.bhuva@codeimmersives.com
 
 ![fat man coding with feet](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif "fat man coding with feet")
 
