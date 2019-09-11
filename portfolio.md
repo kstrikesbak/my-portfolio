@@ -1,17 +1,19 @@
 # `KEJAL PORTFOLIO`
 
+## ___*`PROFILE`*___
+
+**I am highly motivated and enjoy working at a fast pace, within a pressurised environment as this often yields the best rewards in terms of personal satisfaction. I also value the opportunity to learn new skills, with a strong appetite for knowledge.**
+
 ## ___*`EDUCATION & QUALIFICATIONS`*___ 
 
+* 2017: The TEFL Academy
+Teaching English as a Foreign Language 120 hours (distinction)
 
+* 2014: The University of Buckingham
+Secondary PGCE in Mathematics with QTS
 
-    * 2017: The TEFL Academy
-    Teaching English as a Foreign Language 120 hours (distinction)
-
-    * 2014: The University of Buckingham
-    Secondary PGCE in Mathematics with QTS
-
-    * 2013: University Of Sheffield
-    BSc (Hons) Mathematics 2:1
+* 2013: University Of Sheffield
+BSc (Hons) Mathematics 2:1
 
 ## ___*`EMPLOYMENT`*___ 
 
