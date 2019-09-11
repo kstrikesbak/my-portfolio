@@ -4,6 +4,12 @@
 
 **I am highly motivated and enjoy working at a fast pace, within a pressurised environment as this often yields the best rewards in terms of personal satisfaction. I also value the opportunity to learn new skills, with a strong appetite for knowledge.**
 
+**You will see from my application that at my disposal, I possess an armoury of skills and professional competences which I strongly believe are fundamentally critical to any job.** 
+
+**I can effectively communicate technical and non-­technical information across to audiences with different backgrounds verbally and in writing with clarity.** 
+
+**It is important to highlight that I am also a skillful negotiator, often having to solve problems and bring people together to complete tasks.**
+
 ## ___*`EDUCATION & QUALIFICATIONS`*___ 
 
 * 2017: The TEFL Academy
