@@ -85,7 +85,12 @@
 
 ## ___*`REFEREES`*___
 
-*Available on request*
+
+| Name | Relationship | Organisation | Email  
+| -| - | - | - |
+| Colin Jaffe | Coding Professor | Code Immersives | Colin.Jaffe@codeimmersives.com
+| Mesuara Kaleziq  | Coding Assistant | Code Immersives | Mesuara.Kaleziq@codeimmersives.com
+
 
 ## ___*`OTHER`*___
 
