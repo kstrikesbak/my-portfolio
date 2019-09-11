@@ -17,7 +17,7 @@ BSc (Hons) Mathematics 2:1
 
 ## ___*`EMPLOYMENT`*___ 
 
-#### `8. Sept 2018 – Aug 2019: Saint Birinus School Didcot, KS3 Mathematics Coordinator`
+#### `8. Sept 2018 – Aug 2019: Saint Birinus School, Didcot, KS3 Mathematics Coordinator`
 
     Teaching KS3 and KS4 
     Creating and managing resources for KS3 teachers
